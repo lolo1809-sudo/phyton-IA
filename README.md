@@ -1,0 +1,2 @@
+# phyton-IA
+Primer repositorio :)
